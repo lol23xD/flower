@@ -11,9 +11,9 @@ var lyricsData = [
   { text: "And all you gotta do is not answer my calls when", time: 43 },
   { text: "I'm trying to get through", time: 50 },
   { text: "To keep me wondering why, when all I can do is sigh", time: 52 },
-  { text: "I just want to touch you", time: 61.2 },
+  { text: "I just want to touch you", time: 62 },
   { text: "I just want to touch and kiss", time: 63 },
-  { text: "And I wish that I could be with you tonight", time: 65.4 },
+  { text: "And I wish that I could be with you tonight", time: 66 },
   { text: "You give me butterflies inside, inside and I", time: 72 },
   {
     text: "All I gotta say is that I must be dreaming, can't be real",
